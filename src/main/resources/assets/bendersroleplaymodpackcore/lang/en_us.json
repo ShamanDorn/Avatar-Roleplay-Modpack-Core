@@ -1,0 +1,13 @@
+{
+  "itemGroup.bendersroleplaymodpackcore": "Example Mod Tab",
+  "block.bendersroleplaymodpackcore.example_block": "Example Block",
+  "item.bendersroleplaymodpackcore.example_item": "Example Item",
+
+  "bendersroleplaymodpackcore.configuration.title": "Benders Roleplay Modpack Core Configs",
+  "bendersroleplaymodpackcore.configuration.section.bendersroleplaymodpackcore.common.toml": "Benders Roleplay Modpack Core Configs",
+  "bendersroleplaymodpackcore.configuration.section.bendersroleplaymodpackcore.common.toml.title": "Benders Roleplay Modpack Core Configs",
+  "bendersroleplaymodpackcore.configuration.items": "Item List",
+  "bendersroleplaymodpackcore.configuration.logDirtBlock": "Log Dirt Block",
+  "bendersroleplaymodpackcore.configuration.magicNumberIntroduction": "Magic Number Text",
+  "bendersroleplaymodpackcore.configuration.magicNumber": "Magic Number"
+}
